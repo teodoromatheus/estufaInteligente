@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "22688990554",
+    "firebase_url": "https://estufainteligente-4ac45-default-rtdb.firebaseio.com",
+    "project_id": "estufainteligente-4ac45",
+    "storage_bucket": "estufainteligente-4ac45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22688990554:android:14f172878ea8bd0ef11f63",
+        "android_client_info": {
+          "package_name": "com.example.estufa_inteligente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22688990554-eptskc4aljuk72d3guf8s962q65sjr11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNcoAoQ2YyqDTlvmXdWy3dFxmeF52pB70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22688990554-eptskc4aljuk72d3guf8s962q65sjr11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
